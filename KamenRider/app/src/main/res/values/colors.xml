@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="stateBar">#817d7a</color>
+    <color name="ActionBar">#807c7a</color>
+    <color name="parentGameViewBackground">#faf8ef</color>
+    <color name= "gameViewBackground">#FFBBADA0</color>
+    <color name= "textView0">#33FFFFFF</color>
+    <color name="textView_2">#776e65</color>
+    <color name="textView_Background_2">#eee4da</color>
+    <color name="textView_4">#776e65</color>
+    <color name="textView_Background_4">#ede0c8</color>
+    <color name="textView_8">#f9f6f2</color>
+    <color name="textView_Background_8">#f2b179</color>
+    <color name="textView_16">#f9f6f2</color>
+    <color name="textView_Background_16">#f59563</color>
+    <color name="textView_32">#f9f6f2</color>
+    <color name="textView_Background_32">#f67c5f</color>
+    <color name="textView_64">#f9f6f2</color>
+    <color name="textView_Background_64">#f65e3b</color>
+    <color name="textView_128">#f9f6f2</color>
+    <color name="textView_Background_128">#edcf72</color>
+    <color name="textView_256">#f9f6f2</color>
+    <color name="textView_Background_256">#edcc61</color>
+    <color name="textView_512">#f9f6f2</color>
+    <color name="textView_Background_512">#edc850</color>
+    <color name="textView_1024">#f9f6f2</color>
+    <color name="textView_Background_1024">#edc53f</color>
+    <color name="textView_2048">#f9f6f2</color>
+    <color name="textView_Background_2048">#edc22e</color>
+</resources>
